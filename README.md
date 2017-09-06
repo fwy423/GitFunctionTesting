@@ -1,1 +1,2 @@
 # GitFunctionTesting
+Edit on master
